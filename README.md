@@ -1,16 +1,20 @@
-## Hi there 👋
+# JEDAQU
 
-<!--
-**jedaqu/jedaqu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Independent developer building software, developer tools and experimental systems.
 
-Here are some ideas to get you started:
+JEDAQU is my personal creator and developer identity. Individual projects keep their own identities while sharing a common creator.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected work
+
+### Android Release Doctor
+Open-source local-first tool for auditing Android APK and AAB releases before publication.
+
+[View repository →](https://github.com/jedaqu/android_release_doctor)
+
+### Personal site
+
+[https://jedaqu.github.io](https://jedaqu.github.io)
+
+---
+
+Building software, exploring ideas, and turning experiments into useful things.
